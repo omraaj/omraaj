@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omraaj&label=Profile%20views&color=0e75b6&style=flat" alt="omraaj" /> </p>
 
-<p align="left"> <a href="https://twitter.com/nichalomraj" target="blank"><img src="https://img.shields.io/twitter/follow/nichalomraj?logo=twitter&style=for-the-badge" alt="nichalomraj" /></a> </p>
 
-- 🌱 I’m currently learning **Java**
+
+- 🌱 I have learned skills that will benefit me for career exposure & also my employer and teams to get work done before deadline and conviniently.
 
 - 📫 How to reach me **rajnichal748@gmail.com**
 
